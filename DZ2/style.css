@@ -1,0 +1,15 @@
+.triangle {
+  width: 0px;
+  height: 0px;
+  border-top: 450px solid #708fd4;
+  border-left: 440px solid transparent;
+}
+.block {
+  margin-top: 8px;
+  right: 0px;
+  position: absolute;
+  width: 0px;
+  height: 0px;
+  border-top: 50px solid #d4d243;
+  border-left: 50px solid transparent;
+}

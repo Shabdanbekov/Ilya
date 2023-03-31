@@ -1,0 +1,17 @@
+.image {
+  background-size: contain;
+  width: 250px;
+  height: 280px;
+}
+.block {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+}
+
+.shum {
+  width: auto;
+  height: auto;
+  flex: 1;
+  flex-basis: 20%;
+}
